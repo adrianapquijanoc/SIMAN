@@ -116,21 +116,6 @@ nav a:hover::after {
   object-position: center;
 }
 
-.video img,
-.video iframe,
-.video video {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  object-position: center;
-  border-radius: 8px;
-}
-
-.video {
-  padding: 2rem;
-  background-color: #f9f9f9;
-}
-
 footer {
   background-color: #333;
   color: white;
